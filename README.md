@@ -12,12 +12,14 @@ InClass Mathematical TASKS
 - fib_recursion.py  - FIbonacci sequence in RECURSION WAY
 
 ![Screenshot](./Req/Task.JPG)
+
 -----------------------------------
 ###     T A S K - 2 
 -----------------------------------
 - task2.py    - InClassAssessment
 
 ![Screenshot](./Req/Task2.jpg)
+
 -----------------------------------
 ###     T A S K - 3 
 -----------------------------------
