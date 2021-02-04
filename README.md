@@ -10,7 +10,7 @@ InClass Mathematical TASKS
 -----------------------------------
 - fib_dynamic.py    - FIbonacci sequence in DYNAMIC WAY
 - fib_recursion.py  - FIbonacci sequence in DYNAMIC WAY
-![Screenshot](./Task.jpg)
+![Screenshot](./Task.JPG)
 
 
 
