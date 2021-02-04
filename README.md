@@ -17,7 +17,7 @@ InClass Mathematical TASKS
 ###     T A S K - 2 
 -----------------------------------
 - task2.py    - InClassAssessment
-![Screenshot](./Task2.jpg)
+![Screenshot](./Req/Task2.jpg)
 
 
 -----------------------------------
